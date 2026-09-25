@@ -74,7 +74,7 @@ function Dashboard() {
   const progress = Math.round((done / tasks.length) * 100);
 
   return (
-    <AppLayout title="Good day 👋" description="Here's your workspace at a glance.">
+    <AppLayout title="Good day" description="Here's your workspace at a glance.">
       <div className="space-y-6">
         <Card className="bg-primary text-primary-foreground">
           <p className="text-sm/relaxed opacity-90">Welcome back to</p>
