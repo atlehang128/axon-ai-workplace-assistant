@@ -60,6 +60,9 @@ function EmailPage() {
                   <option>Client</option>
                   <option>Manager</option>
                   <option>Team</option>
+                  <option>HR / Recruiter</option>
+                  <option>External partner</option>
+                  <option>Whole company</option>
                 </Select>
               </Field>
               <Field label="Tone">
@@ -68,6 +71,10 @@ function EmailPage() {
                   <option>Friendly</option>
                   <option>Persuasive</option>
                   <option>Assertive</option>
+                  <option>Casual</option>
+                  <option>Apologetic</option>
+                  <option>Enthusiastic</option>
+                  <option>Direct &amp; concise</option>
                 </Select>
               </Field>
             </div>
